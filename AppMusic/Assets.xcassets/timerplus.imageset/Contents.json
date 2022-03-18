@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "timerplus.svg",
+      "filename" : "timerplus.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "timerplus@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "timerplus@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
